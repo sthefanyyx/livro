@@ -28,6 +28,18 @@ li{
 }
 .sobre{
     background-image: -o-linear-gradient(#03071F,#FFFF);
-    color:hsl(0, 52%, 60%)
-    display:plex;
+    color:hsl(101, 86%, 45%)
+    displey:flex;
+    justify-content:center
+    align-items:center 
+    padding: 24px 0;
+}
+
+.sobreImagem{
+    width:35%;
+}
+
+.sobreConteudo{
+
+    
 }
