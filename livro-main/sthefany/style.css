@@ -1,0 +1,48 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{ 
+    background-color: blueviolet (18, 132, 20);
+    color: rgb(35, 11, 58);
+    display: flex;
+    justify-content: space-around;
+
+}
+.cabecalhoImagem{
+    width: 30;
+
+}
+
+body{
+    background-color: chartreuse(230, 220, 220);
+}
+li{
+    color: cornflowerblue;
+}
+.cabecalhoListaItem{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+}
+.sobre{
+    background-image: -o-linear-gradient(#03071F,#FFFF);
+    color:hsl(101, 86%, 45%)
+    displey:flex;
+    justify-content:center
+    align-items:center 
+    padding: 24px 0;
+}
+
+.sobreImagem{
+    width:35%;
+}
+
+.sobreConteudo{
+
+    
+}
+.membroImagens{
+    width: 120px;
+}
